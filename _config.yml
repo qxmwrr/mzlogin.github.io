@@ -37,11 +37,11 @@ navs:
 
   -
     href: /wiki/
-    label: 维基
+    label: Wiki
 
-  -
-    href: /links/
-    label: 链接
+#  -
+#    href: /links/
+#    label: 链接
 
   -
     href: /about/
@@ -90,9 +90,6 @@ comments_provider: gitment
 # https://disqus.com
 disqus:
     username: mzlogin
-# https://gentie.163.com
-netease_gentie:
-    productKey: 560ed243b708465d82d5a0a5f3b83da1
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: mzlogin

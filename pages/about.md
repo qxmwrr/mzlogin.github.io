@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 关于
 description: 打码改变世界
 keywords: Zhuang Ma, 马壮
 comments: true
@@ -8,19 +8,13 @@ menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
-
-仰慕「优雅编码的艺术」。
-
-坚信熟能生巧，努力改变人生。
-
 ## 联系
 
 {% for website in site.data.social %}
-* {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
+* {{ website.sitename }}：[{{ website.name }}]({{ website.url }})
 {% endfor %}
 
-## Skill Keywords
+## 技能关键字
 
 {% for category in site.data.skills %}
 ### {{ category.name }}
@@ -30,3 +24,5 @@ permalink: /about/
 {% endfor %}
 </div>
 {% endfor %}
+
+
