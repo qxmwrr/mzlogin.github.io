@@ -89,7 +89,7 @@ comments_provider: gitment
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: mzlogin
+    username: qxmwrr
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: qxmwrr
@@ -98,7 +98,7 @@ gitment:
         client_id: bdb34a351815de070f24
         client_secret: 16e3681665e317381dbb92db47683169e70a0527
 # 在使用其它评论组件时可点击显示 Disqus
-lazy_load_disqus : true
+lazy_load_disqus : false
 
 # ---------------- #
 #    Analytics     #
