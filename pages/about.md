@@ -2,8 +2,8 @@
 layout: page
 title: 关于
 description: 打码改变世界
-keywords: Zhuang Ma, 马壮
-comments: true
+keywords: qxmwrr, 化作春泥
+comments: false
 menu: 关于
 permalink: /about/
 ---
