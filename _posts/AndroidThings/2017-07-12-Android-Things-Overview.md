@@ -4,7 +4,7 @@ title: Android Things 概览
 categories: [android things]
 description: Android Things与Android使用相同的开发工具，同类最佳的Android框架和Google API，从而使开发连接的嵌入式设备变得轻松。
 keywords: [android things, 树莓派, 嵌入式]
-date: 2017-07-12 09:00:00
+date: 2017-07-12 09:00:00 +0800
 author: 化作春泥
 ---
 
