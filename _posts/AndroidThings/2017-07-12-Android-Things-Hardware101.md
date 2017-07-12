@@ -4,7 +4,7 @@ title: Android Things-硬件基础
 categories: [android things]
 description: 本文为您提供了您应该熟悉的基本电子概念的概述，以便将外围设备安全连接到设备，并开始编写能够使其运行的应用程序。
 keywords: [android things, 树莓派, 嵌入式]
-date: 2017-07-12 120:00:00
+date: 2017-07-12 12:00:00
 author: 化作春泥
 ---
 
