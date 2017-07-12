@@ -5,7 +5,7 @@ categories: [android things]
 description: 在Mac OS上，您可以选择命令行dd工具或使用图形工具ImageWriter将图像写入SD卡。
 
 keywords: [android things, 树莓派, 嵌入式, 刷机]
-date: 2017-07-12
+date: 2017-07-12 15:00:00
 author: 化作春泥
 ---
 
