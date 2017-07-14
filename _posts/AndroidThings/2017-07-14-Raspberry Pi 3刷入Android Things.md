@@ -17,7 +17,7 @@ Raspberry Pi 3 B型是世界上最受欢迎的单板电脑的最新版本。 它
 
 有关该板上的[外设I/O信号](https://developer.android.google.cn/things/sdk/pio/index.html)的更多详细信息，请参阅[Raspberry Pi I/O](https://developer.android.google.cn/things/hardware/raspberrypi-io.html)。
 
-##Android Things系统刷入
+## Android Things系统刷入
 ---
 在Android Things系统刷入之前，除了Raspberry Pi之外，还需要以下项目：
 
@@ -36,7 +36,7 @@ Raspberry Pi 3 B型是世界上最受欢迎的单板电脑的最新版本。 它
 2、解压下载完成的系统镜像
 3、按照官方Raspberry Pi说明方法将系统镜像写入SD卡：
 + [Linux环境刷入方法](https://www.raspberrypi.org/documentation/installation/installing-images/linux.md)
-+ Mac环境刷入方法 [http://www.jianshu.com/p/7ec93e11ae04](http://www.jianshu.com/p/7ec93e11ae04)
++ Mac环境刷入方法 [https://qxmwrr.github.io](https://qxmwrr.github.io/2017/07/13/Mac环境SD卡刷入Android-Things系统/)
 + Windows环境刷入方法：
  - 将SD卡插入SD卡读卡器，并检查分配了哪个驱动器盘符。 您可以通过查看Windows资源管理器的左侧列，轻松查看驱动器盘符，如`G :`，如果你有SD卡插槽，您可以使用SD卡插槽，或通过SD适配器插在USB端口上。
  - 从Sourceforge项目页面下载Win32DiskImager实用程序文件；您可以从USB驱动器运行。
