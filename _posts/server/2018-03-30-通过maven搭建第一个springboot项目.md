@@ -155,14 +155,14 @@ public class IndexController {
 
 最终目录结构如下
 
-<img src="/images/posts/server/project_finish" width="70%" alt="目录结构"/>
+<img src="/images/posts/server/project_finish.jpg" width="70%" alt="目录结构"/>
 
 
 ### 添加 Run/Debug Configurations启动项
 
 如图：
 
-<img src="/images/posts/server/run_config" width="70%" alt="启动项配置" />
+<img src="/images/posts/server/run_config.jpg" width="70%" alt="启动项配置" />
 
 最后运行，浏览器输入 http://localhost:8080/hello。开启你的spring boot之旅吧。
 
